@@ -21,6 +21,10 @@ html {
     align-content: center;
 }
 
+.jumbotron {
+    background-color: white;
+}
+
 @media (min-width: 576px) {
 
 }
